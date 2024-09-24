@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-</urlset>
+      <url>
+        <loc>https://star-gazer.vercel.app/booking-driver.html</loc>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        <priority>0.6</priority>
+      </url>
+      <url>
+        <loc>https://star-gazer.vercel.app/seo.html</loc>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        <priority>0.6</priority>
+      </url>
+      <url>
+        <loc>https://star-gazer.vercel.app/news.html</loc>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        <priority>0.6</priority>
+      </url>
+  </urlset>

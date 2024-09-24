@@ -1,0 +1,10 @@
+User-agent: *
+  Allow: /
+  
+  Sitemap: https://star-gazer.vercel.app/sitemap/sitemap-index.xml
+  Sitemap: https://star-gazer.vercel.app/sitemap/categories-sitemap.xml
+  Sitemap: https://star-gazer.vercel.app/sitemap/page-sitemap.xml
+        
+  Sitemap: https://star-gazer.vercel.app/sitemap/categories/news.xml
+  Sitemap: https://star-gazer.vercel.app/sitemap/categories/seo.xml
+  Sitemap: https://star-gazer.vercel.app/sitemap/categories/booking-driver.xml

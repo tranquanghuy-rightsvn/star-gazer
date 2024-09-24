@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-</sitemapindex>
+        <sitemap>
+          <loc>https://star-gazer.vercel.app/sitemap/categories-sitemap.xml</loc>
+          <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://star-gazer.vercel.app/sitemap/page-sitemap.xml</loc>
+          <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://star-gazer.vercel.app/sitemap/categories/booking-driver.xml</loc>
+          <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://star-gazer.vercel.app/sitemap/categories/seo.xml</loc>
+          <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://star-gazer.vercel.app/sitemap/categories/news.xml</loc>
+          <lastmod>2024-09-24T15:35:54+07:00</lastmod>
+        </sitemap>
+    </sitemapindex>
